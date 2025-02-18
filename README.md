@@ -1,6 +1,8 @@
 # Shilo Launcher
 simple n comfort anime game launcher!
 
+//Before click **play** disable ur antivirus!
+
 # Features:
 ```
 · Re/Download *client* files
